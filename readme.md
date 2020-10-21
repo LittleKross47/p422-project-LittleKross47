@@ -34,3 +34,4 @@ There is potential for this to grow in several areas:
 - Improving the api to be transfer information more efficient (i.e. utilizing a graphql api)
 - Improving by adding a signin system
 - Improving by also adding a note syncing system for local notes
+
